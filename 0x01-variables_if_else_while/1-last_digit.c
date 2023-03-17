@@ -4,7 +4,7 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * main - serves as the starting point for program execution
+ * main - prints the last digit of the number stored in the variable n.
  *
  * Return: always 0
  */

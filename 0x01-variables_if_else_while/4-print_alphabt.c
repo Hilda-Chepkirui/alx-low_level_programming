@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - ends the execution of a function
+ * main - prints the alphabet in lowercase, followed by a new line.
  *
- * Return: serves as the starting point for program execution
+ * Return: ends the execution of a function, returns 0.
  */
 
 int main(void)
