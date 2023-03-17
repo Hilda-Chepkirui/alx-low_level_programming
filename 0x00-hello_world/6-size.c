@@ -3,7 +3,7 @@
 /**
  * main - serves as the starting point for program execution
  *
- * Return: ends the execution of a function
+ * Return: always return 0
  */
 
 int main(void)
