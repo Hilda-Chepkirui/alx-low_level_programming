@@ -18,6 +18,8 @@ int main(void)
 	{
 		fn = n1 + n2;
 		printf("%ld", fn);
+		printf(",");
+		printf(" ");
 		n1 = n2;
 		n2 = fn;
 	}
